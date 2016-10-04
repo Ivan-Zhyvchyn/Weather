@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="KPZ_Laba_1_1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KPZ_Laba_1_1_jar</output-path>
+    <root id="archive" name="KPZ_Laba_1_1.jar">
+      <element id="module-output" name="KPZ_Laba_1_1" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Jama-1.0.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
